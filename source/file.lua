@@ -15,7 +15,7 @@ return
 end
 
 if value[3] then
-gg.saveVariable(a, config)
+gg.saveVariable(value, config)
 else
 os.remove(config)
 end
