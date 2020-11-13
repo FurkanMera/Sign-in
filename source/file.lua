@@ -31,4 +31,4 @@ end end end end
 
 
 
-b = gg.choice({"Hack/hile","Exit/cikis"})
+choice = gg.choice({"Hack/hile","Exit/cikis"})
